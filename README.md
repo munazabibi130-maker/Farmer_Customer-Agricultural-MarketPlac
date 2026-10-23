@@ -101,9 +101,9 @@ Detailed installation and configuration instructions will be added as developmen
 
 This project is being developed as part of an academic Software Engineering project.
 
-**Team Members:** Add the names of all team members here.
+**Team Members:** Munaza Bibi,Aliza Fatima,Muhammad Asif,Hammad Hassan Khan.
 
-**Project Supervisor/Instructor:** Add the instructor's name here.
+**Project Supervisor/Instructor:** Madam Asia Batool.
 
 ## 🔮 Future Enhancements
 
